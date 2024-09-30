@@ -1,5 +1,5 @@
 var output = document.querySelector("#output")
-var num = 12
+var num = 0
 var image = document.querySelector("#image")
 function chand (){
    num =  Math.ceil(Math.random(num)*2)
